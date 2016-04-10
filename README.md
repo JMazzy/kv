@@ -1,4 +1,3 @@
 # KvUmbrella
 
-**TODO: Add description**
-
+The key/value store sample application from the Elixir tutorial.
